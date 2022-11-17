@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7719be1f.css","mappings":"AAAA,iBCCE,iBDEF,CAHA,OACI,sBAEJ","sources":["About.css","App.css"],"sourcesContent":[".first{\n    background-color: azure;\n    text-align: center;\n}",".gh_pages{\n  text-align: center;\n}"],"names":[],"sourceRoot":""}
